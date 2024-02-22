@@ -1,1 +1,13 @@
-# Construcao_Backend
+# Repositório da disciplina de Construção de Backend
+
+Este repositório foi criado com o objetivo de armazenar e organizar os códigos desenvolvidos durante as aulas e atividades práticas da disciplina.
+
+## Estruturação do Repositório
+
+O repositório está dividido em duas principais seções:
+
+### 1. Aulas
+Nesta pasta, você encontrará os códigos referentes às aulas expositivas. São exemplos práticos, demonstrações e implementações discutidas durante as seções teóricas.
+
+### 2. Práticas
+Aqui estão armazenados os códigos correspondentes às atividades práticas. Essas práticas visam fortalecer os conceitos aprendidos em sala, proporcionando oportunidades para aplicação e exercício das habilidades adquiridas.
